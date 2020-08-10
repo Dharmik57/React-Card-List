@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Developed By Dharmik Valani
+
+    Simple Card-List For Post Responsive 
+
 ## Available Scripts
 
 In the project directory, you can run:
