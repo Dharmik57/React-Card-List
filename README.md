@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
     Simple Card-List For Post Responsive 
 
+Desktop View <br>
+<img src="public/Desktop-Post.PNG">
+
+Mobile View <br>
+<img src="public/Mobile-Post.PNG">
+
 ## Available Scripts
 
 In the project directory, you can run:
